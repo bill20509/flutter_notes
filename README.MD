@@ -7,7 +7,7 @@ https://api.flutter.dev/flutter/dart-isolate/dart-isolate-library.html
 https://cloud.tencent.com/developer/article/1676442  
 https://cloud.tencent.com/developer/article/1507841?from=article.detail.1676442  
 https://github.com/flutter/samples/tree/main/isolate_example  
-https://ithelp.ithome.com.tw/articles/10240005
+https://ithelp.ithome.com.tw/articles/10240005  
 https://danielkao.medium.comadvanced-isolate-usage-in-flutter-94b124deacdd  
 # animation
 # add to app
